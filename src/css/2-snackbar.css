@@ -37,6 +37,7 @@ p {
 .form > label > input {
   width: 250px;
   height: 40px;
+  font-size: 16px;
 }
 
 fieldset {
